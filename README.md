@@ -4,7 +4,7 @@ This is a web-based **Airplane Ticket Booking System** developed using **ASP.NET
 
 ## 🛠️ Technologies Used
 
-- **ASP.NET Web Forms**
+- **ASP.NET**
 - **C# (.NET Framework 4.8)**
 - **SQL Server** (for backend database)
 - **HTML, CSS** for UI
